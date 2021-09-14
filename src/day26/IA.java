@@ -11,6 +11,7 @@ public interface IA {
 		
 	}
 	
+	
 	public static void m3() {
 		
 		System.out.println("m3");
